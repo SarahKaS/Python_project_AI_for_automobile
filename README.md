@@ -1,4 +1,4 @@
-# Python_project_AI_for_automobile
+# Python_Project_AI_for_Automobile
 Analysis of detection files with Python
 
 PART 1
